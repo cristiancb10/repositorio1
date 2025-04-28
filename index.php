@@ -1,3 +1,6 @@
 <?php
-echo "hola";
+echo "";
 
+echo 'joj';
+
+echo 'version 3';
